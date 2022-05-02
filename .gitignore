@@ -1,5 +1,7 @@
-
+# Listado de archivos y carpetas que git tiene que ignorar
+# Toda la carpeta
 node_modules/
 
+# Solo los archivos txt de la carpeta
 salida/*.txt
 
